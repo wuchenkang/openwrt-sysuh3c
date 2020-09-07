@@ -17,7 +17,7 @@ msgid "If enabled, the client will block startup sequence until authenticated"
 msgstr "如果开启此选项，客户端会在认证成功前阻止启动序列"
 
 msgid "Username"
-msgstr "NetID"
+msgstr "用户名"
 
 msgid "Password"
 msgstr "密码"

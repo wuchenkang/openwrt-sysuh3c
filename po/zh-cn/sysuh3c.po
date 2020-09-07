@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "SYSU H3C Client"
+msgstr "中山大学H3C客户端"
+
+msgid "Configure H3C 802.1x client."
+msgstr "配置H3C 802.1x客户端"
+
+msgid "Enable"
+msgstr "开启"
+
+msgid "Block Startup Sequence"
+msgstr "阻止启动序列"
+
+msgid "If enabled, the client will block startup sequence until authenticated"
+msgstr "如果开启此选项，客户端会在认证成功前阻止启动序列"
+
+msgid "Username"
+msgstr "NetID"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "EAP Method"
+msgstr "EAP认证方法"
+
+msgid "Interface"
+msgstr "接口"

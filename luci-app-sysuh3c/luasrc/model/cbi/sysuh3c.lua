@@ -21,7 +21,7 @@ s.anonymous = true
 
 enable = s:option(Flag, "enable", translate("Enable"))
 blockstartup = s:option(Flag, "blockstartup", translate("Block Startup Sequence"),
-	"If enabled, the client will block startup sequence until authenticated")
+	translate("If enabled, the client will block startup sequence until authenticated"))
 name = s:option(Value, "username", translate("Username"))
 pass = s:option(Value, "password", translate("Password"))
 pass.password = true
